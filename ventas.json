@@ -1,7 +1,7 @@
 {
     "ventas": {
 
-        "estrategia": [
+        "ESTRATEGIA": [
             {
                 "id": 1,
                 "nombre": "Terraforming Mars",
@@ -51,7 +51,7 @@
             }
         ],
 
-        "cooperativos": [
+        "COOPERATIVO": [
             {
                 "id": 4,
                 "nombre": "Pandemic",
@@ -101,7 +101,7 @@
             }
         ],
 
-        "rol": [
+        "ROL": [
             {
                 "id": 7,
                 "nombre": "Dungeon & Dragons",
@@ -152,7 +152,7 @@
 
         ],
 
-        "casual": [
+        "CASUAL": [
             {
                 "id": 10,
                 "nombre": "Uno No Mercy",
